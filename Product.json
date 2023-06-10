@@ -1,0 +1,19 @@
+    {
+        "id": 3,
+        "title": "jackets and blazers",
+        "price": 55.99,
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "men's clothing",
+        "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/1785/653/712//01/1785653712_1_1_3.jpg?t=1672742374569",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        },
+        "Name": "Hony",
+        "Color1": "Black",
+        "Color2": "Red",
+        "Color3": "Blue",
+        "Color4": "Fuji",
+        "Color5": "Red",
+        "Color6": "local"
+    }
